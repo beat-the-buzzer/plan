@@ -20,7 +20,9 @@
 
 其实制定学习计划表是我的心血来潮，我自己也没有经验，先凑合着用几个月，看看效果如何。学习计划表主要包括:每周的具体计划，每周的作业，未完成的惩罚等等。如果能找到一个志同道合的人和你一起努力的话，就可以互相约定未完成的惩罚了。可惜，学习之路总是孤独的。
 
- - [2018-05:Rem/Promise/二叉树/函数式编程](https://github.com/beat-the-buzzer/plan/blob/master/2018-05/2018-05.md)
- - [2018-06:两本书籍阅读/Git托管项目](https://github.com/beat-the-buzzer/plan/blob/master/2018-06/2018-06.md)
- - [2018-07:React动画/书籍阅读](https://github.com/beat-the-buzzer/plan/blob/master/2018-07/2018-07.md)
- - [2018-08:从JS到TS开发数独游戏](https://github.com/beat-the-buzzer/plan/blob/master/2018-08/2018-08.md)
+ - [2018-05: Rem/Promise/二叉树/函数式编程](https://github.com/beat-the-buzzer/plan/blob/master/2018-05/2018-05.md)
+ - [2018-06: 两本书籍阅读/Git托管项目](https://github.com/beat-the-buzzer/plan/blob/master/2018-06/2018-06.md)
+ - [2018-07: React动画/书籍阅读](https://github.com/beat-the-buzzer/plan/blob/master/2018-07/2018-07.md)
+ - [2018-08: 从JS到TS开发数独游戏](https://github.com/beat-the-buzzer/plan/blob/master/2018-08/2018-08.md)
+ - [2018-09: React组件体验](https://github.com/beat-the-buzzer/plan/blob/master/2018-09/2018-09.md)
+ - [2018-10: 早起计划/webpack配置练习/《编码》](https://github.com/beat-the-buzzer/plan/blob/master/2018-10/2018-10.md)
