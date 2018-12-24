@@ -26,3 +26,5 @@
  - [2018-08: 从JS到TS开发数独游戏](https://github.com/beat-the-buzzer/plan/blob/master/2018-08/2018-08.md)
  - [2018-09: React组件体验](https://github.com/beat-the-buzzer/plan/blob/master/2018-09/2018-09.md)
  - [2018-10: 早起计划/webpack配置练习/《编码》](https://github.com/beat-the-buzzer/plan/blob/master/2018-10/2018-10.md)
+ 
+ - [2019-01: Take And Leave](https://github.com/beat-the-buzzer/plan/blob/master/2019-01/2019-01.md)
