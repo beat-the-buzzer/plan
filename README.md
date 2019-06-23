@@ -31,3 +31,4 @@
  - [2019-03：实战课程/源码解读/找工作准备](https://github.com/beat-the-buzzer/plan/blob/master/2019-03/2019-03.md)
  - [2019-04：Vue学习、排序算法](https://github.com/beat-the-buzzer/plan/blob/master/2019-04/2019-04.md)
  - [2019-05：贪心算法、Vue项目总结、个人网站建设](https://github.com/beat-the-buzzer/plan/blob/master/2019-05/2019-05.md)
+ - [2019-06：Vue开发技巧、你不知道的JavaScript重新研读](https://github.com/beat-the-buzzer/plan/blob/master/2019-06/2019-06.md)
