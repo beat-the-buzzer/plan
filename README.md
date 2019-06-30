@@ -32,3 +32,4 @@
  - [2019-04：Vue学习、排序算法](https://github.com/beat-the-buzzer/plan/blob/master/2019-04/2019-04.md)
  - [2019-05：贪心算法、Vue项目总结、个人网站建设](https://github.com/beat-the-buzzer/plan/blob/master/2019-05/2019-05.md)
  - [2019-06：Vue开发技巧、你不知道的JavaScript重新研读、TypeScript入门级学习](https://github.com/beat-the-buzzer/plan/blob/master/2019-06/2019-06.md)
+  - [2019-06：你不知道的JavaScript至少两章总结、TypeScript完成学习、动态规划](https://github.com/beat-the-buzzer/plan/blob/master/2019-07/2019-07.md)
