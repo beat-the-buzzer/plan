@@ -20,6 +20,13 @@
 
 其实制定学习计划表是我的心血来潮，我自己也没有经验，先凑合着用几个月，看看效果如何。学习计划表主要包括:每周的具体计划，每周的作业，未完成的惩罚等等。如果能找到一个志同道合的人和你一起努力的话，就可以互相约定未完成的惩罚了。可惜，学习之路总是孤独的。
 
+从2019-07计划开始，我将使用新的MarkDown语法来写计划。主要是设置勾选项，月末的时候勾选是否完成。
+
+ - [ ] 待办事项
+ - [x] 已完成事项
+
+MarkDown Pad貌似不支持这种语法，但是GitHub上是支持的。编辑的时候，可以使用VSCode插件：`Markdown Preview Enhanced`.
+
  - [2018-05: Rem/Promise/二叉树/函数式编程](https://github.com/beat-the-buzzer/plan/blob/master/2018-05/2018-05.md)
  - [2018-06: 两本书籍阅读/Git托管项目](https://github.com/beat-the-buzzer/plan/blob/master/2018-06/2018-06.md)
  - [2018-07: React动画/书籍阅读](https://github.com/beat-the-buzzer/plan/blob/master/2018-07/2018-07.md)
@@ -32,4 +39,4 @@
  - [2019-04：Vue学习、排序算法](https://github.com/beat-the-buzzer/plan/blob/master/2019-04/2019-04.md)
  - [2019-05：贪心算法、Vue项目总结、个人网站建设](https://github.com/beat-the-buzzer/plan/blob/master/2019-05/2019-05.md)
  - [2019-06：Vue开发技巧、你不知道的JavaScript重新研读、TypeScript入门级学习](https://github.com/beat-the-buzzer/plan/blob/master/2019-06/2019-06.md)
-  - [2019-06：你不知道的JavaScript至少两章总结、TypeScript完成学习、动态规划](https://github.com/beat-the-buzzer/plan/blob/master/2019-07/2019-07.md)
+ - [2019-07：你不知道的JavaScript至少两章总结、TypeScript完成学习、动态规划法、MAC上安装一些软件](https://github.com/beat-the-buzzer/plan/blob/master/2019-07/2019-07.md)
