@@ -42,3 +42,4 @@ MarkDown Pad貌似不支持这种语法，但是GitHub上是支持的。编辑�
  - [2019-07：你不知道的JavaScript至少两章总结、TypeScript完成学习、动态规划法、MAC上安装一些软件](https://github.com/beat-the-buzzer/plan/blob/master/2019-07/2019-07.md)
  - [2019-08：你不知道的JavaScript至少两章总结、上个月遗留的算法问题、PS课程学习（doge）、Typescript练习](https://github.com/beat-the-buzzer/plan/blob/master/2019-08/2019-08.md)
  - [2019-09：暂无计划](https://github.com/beat-the-buzzer/plan/blob/master/2019-09/2019-09.md)
+ - [2019-10：浙大学习计划](https://github.com/beat-the-buzzer/plan/blob/master/2019-10/2019-10.md)
