@@ -62,3 +62,4 @@ MarkDown Pad貌似不支持这种语法，但是GitHub上是支持的。编辑�
  - [2019-09：暂无计划](https://github.com/beat-the-buzzer/plan/blob/master/2019-09/2019-09.md)
  - [2019-10：浙大学习计划](https://github.com/beat-the-buzzer/plan/blob/master/2019-10/2019-10.md)
  - [2019-11：工具练习——思维导图，TS，算法](https://github.com/beat-the-buzzer/plan/blob/master/2019-11/2019-11.md)
+ - [2019-12：Hexo博客，CSS3动画练习，完善以前整理的算法](https://github.com/beat-the-buzzer/plan/blob/master/2019-12/2019-12.md)
