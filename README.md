@@ -66,4 +66,5 @@ MarkDown Pad貌似不支持这种语法，但是GitHub上是支持的。编辑�
  - [2020-01：GitHub项目整理学习，面试题整理](https://github.com/beat-the-buzzer/plan/blob/master/2020-01/2020-01.md)
  - [2020-04：面试题、笔试题整理](https://github.com/beat-the-buzzer/plan/blob/master/2020-04/2020-04.md)
  - [2020-05：性能优化方案汇总](https://github.com/beat-the-buzzer/plan/blob/master/2020-05/2020-05.md)
- - [2020-06：常用插件Demo，Vue框架使用技巧总结，前端工程化学习](https://github.com/beat-the-buzzer/plan/blob/master/2020-06/2020-06.md)
+ - [2020-06：常用插件Demo，Vue装饰器整理](https://github.com/beat-the-buzzer/plan/blob/master/2020-06/2020-06.md)
+ - [2020-07：Mand-Mobile、VuePress、面试题系列：非技术问题](https://github.com/beat-the-buzzer/plan/blob/master/2020-07/2020-07.md)
